@@ -4,4 +4,5 @@ Junon is the way to create 3D complex softwares, games and more. The project inc
 
 In addition to English, we translate into French and (Brazilian) Portuguese.
 
-The open-source projects related to Junon are all published in this organisation.
+The open-source projects related to Junon are all published in this organisation. \
+For now, the engine is private. All tools around the engine "ju" are open-source.
