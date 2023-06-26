@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/junon-corp/jur/main/assets/logo_circle.png" align="right" width="20%" alt="Junon logo" />
+<img src="https://raw.githubusercontent.com/junon-corp/jur/main/assets/logo_void.png" align="right" width="15%" alt="Junon logo" />
 
 Junon is the way to create complex and highly secure softwares, tools and embedded systems. Designed for embedded systems, but can be used for everything, even games.
 
